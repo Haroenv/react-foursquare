@@ -1,5 +1,8 @@
 # react-foursquare
 
+> This is the fixed version that _does_ compile. 
+> `yarn add @haroenv/react-foursquare`
+
 Here is a simple react application:
 
 1. Install React
